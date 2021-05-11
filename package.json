@@ -1,0 +1,19 @@
+{
+    "name": "meetcute",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "parcel index.html",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@barba/core": "^2.9.7",
+        "gsap": "^3.6.1"
+    },
+    "devDependencies": {
+        "@parcel/transformer-sass": "^2.0.0-beta.2"
+    }
+}
